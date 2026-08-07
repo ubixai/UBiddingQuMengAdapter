@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eO+tZvql6DL8TlhkTJM3VLFdACg=
+		zHzJwld9++zqwNaVmydByUPOEAA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/UBiddingQuMengAdapter-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rI2KNvvj7qeHex8VV1mPVPHGPpY=
-			</data>
 			<key>hash2</key>
 			<data>
 			fA7rX1WID857IEMrWRoYsyhu4ZyAsQzSbTuD4sgH+aY=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/UBiddingQuMengAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oq0JdnqSeHp6J3CeVS3Oc3rE4+Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			m7ciCOZuAW9OR4AuEOnlVF5QwD8Hg+2chmHkZ/mv+xQ=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UXLY4yDlJvJl0Pn0jmMpXgkNqo0=
-			</data>
 			<key>hash2</key>
 			<data>
 			W47xgPL/DECldfqpteeZU/zX8zFiObpYTNMeaxesMYs=
